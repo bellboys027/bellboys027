@@ -1,67 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=250&section=header&text=BELLY%20SAPUTRA&fontSize=70&animation=fadeIn&fontColor=70a5fd" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=280&section=header&text=BELLBOYS&fontSize=90&animation=fadeIn&fontColor=ff2e2e&desc=FULLSTACK%20WEB%20ARCHITECT&descSize=20&descAlignY=65" width="100%" />
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Next.js+Architect;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=ff2e2e&center=true&vCenter=true&width=500&lines=NEXT.JS+SPECIALIST;TYPESCRIPT+EXPERT;UI%2FUX+DESIGNER;SYSTEM+DEVELOPER" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/github/followers/bellboys027?label=Followers&style=for-the-badge&color=70a5fd&logo=github" />
-    <img src="https://img.shields.io/github/stars/bellboys027?label=Total%20Stars&style=for-the-badge&color=70a5fd&logo=reverbnation" />
+    <img src="https://img.shields.io/github/followers/bellboys027?label=NETWORK&style=for-the-badge&color=ff2e2e&logo=github" />
+    <img src="https://img.shields.io/github/stars/bellboys027?label=REPUTATION&style=for-the-badge&color=ff2e2e&logo=reverbnation" />
   </p>
 </div>
 
 ---
 
-### 🌑 The Architect's Space
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=bellboys027&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellboys027&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Strategic Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,oracle,git,github,vscode,figma,postman&perline=9" />
-</div>
-
----
-
-### 📈 Activity Pulse
+### 📡 System Intelligence
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellboys027&theme=tokyonight&border_radius=10&stroke=70a5fd&ring=70a5fd&fire=70a5fd" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bellboys027&show_icons=true&theme=dark&hide_border=false&border_color=ff2e2e&bg_color=0d1117&title_color=ff2e2e&text_color=ffffff&icon_color=ff2e2e" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellboys027&layout=compact&theme=dark&hide_border=false&border_color=ff2e2e&bg_color=0d1117&title_color=ff2e2e&text_color=ffffff&icon_color=ff2e2e" height="200px" />
 </p>
 
 ---
 
-### 🛸 System Communication
+### 🛠️ Lethal Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,oracle,git,github,vscode,figma,postman,vercel&perline=10" />
+</div>
+
+---
+
+### ⚡ Neural Commitment
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellboys027&theme=dark&background=0d1117&border=ff2e2e&stroke=ff2e2e&ring=ff2e2e&fire=ff2e2e&currStreakLabel=ff2e2e" width="100%" />
+</p>
+
+---
+
+### 🌐 Secure Line (Connect)
 <div align="center">
   <a href="https://linkedin.com/in/bellboys027" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/ini.riniii" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:bellysaputra027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=ff2e2e" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bellboys027&label=ACCESS+GRANTED&color=70a5fd&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bellboys027&label=ENCRYPTED+VIEWS&color=ff2e2e&style=for-the-badge" />
 </div>
