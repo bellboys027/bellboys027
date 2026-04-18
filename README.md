@@ -1,36 +1,49 @@
-# Hi there, I'm Belly Saputra 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Belly%20Saputra&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🚀 Informatics Student & Fullstack Enthusiast
-I'm currently a 4th-semester student at **Universitas Muhammadiyah Malang**, focusing on building efficient web solutions and mastering Java.
+  ### 🌐 Fullstack Web Developer Enthusiast
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&center=true&vCenter=true&width=435&lines=React.js+|+Next.js+Expert;Database+Management+Specialist;Building+Digital+Solutions;Informatics+Student+@+UMM" alt="Typing SVG" />
+</div>
 
-- 🛠️ **Currently working on:** [Stars Billiard Management System](https://github.com/bellboys027)
-- 📚 **Learning:** Advanced Information Systems & Database Optimization
-- 📍 **Based in:** Kalimantan Tengah / Malang
-- 🎱 **Fun Fact:** I'm a tech-heavy billiard player!
+---
+
+### 🚀 About Me
+I am a passionate **Fullstack Web Developer** focused on creating interactive and scalable web applications. Currently deepening my expertise in modern JavaScript frameworks and robust database architectures.
+
+- 💻 **Current Focus:** Optimizing Web Performance & UI/UX Design.
+- 🎓 **Education:** Informatics Engineering at **Universitas Muhammadiyah Malang**.
+- 🛠️ **Latest Project:** Developing a Real-time Management System.
+- 🔭 **Goal:** Building seamless digital experiences that solve real-world problems.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,oracle,git,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance & Productivity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellboys027&show_icons=true&theme=tokyonight&count_private=true" alt="Belly's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellboys027&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bellboys027&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellboys027&theme=tokyonight&border_radius=10" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellboys027&layout=compact&theme=tokyonight&border_radius=10" height="180px" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/username-kamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/ini.riniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bellboys027" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ini.riniii" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bellboys027&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</div>
